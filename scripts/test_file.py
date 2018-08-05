@@ -4,7 +4,7 @@ class TestFile:
         assert 1
 
     def test_file2(self):
-        assert 1
+        assert 0
 
     def test_file3(self):
         assert 0
