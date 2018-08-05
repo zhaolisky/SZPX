@@ -7,6 +7,6 @@ class TestScripts:
         assert 0
 
     def test_scripts2(self):
-        assert 1
+        assert 0
 
 
